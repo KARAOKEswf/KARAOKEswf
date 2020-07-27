@@ -7,7 +7,8 @@
 - 準備中
 
 # 概要
-- 当リポジトリで配布されるファイルのライセンスは、**Creative Commmons BY-4.0 License** となっており、「#KARAOKEswf」の表示があれば、自由にお使い頂けます。
+- 「Flash職人」なんていうものになった 2003年から、 Macromedia Flash (現：Adobe Animate)で、「カラオケ字幕」を表現できないかを模索し続けて、2014年にようやく「[このMAD動画](https://www.nicovideo.jp/watch/sm23925725)」で具現化することができた経緯のものです。
+- 当リポジトリで配布されるファイルのライセンスは、**Creative Commmons BY-4.0 License** となっており、とりあえず「#KARAOKEswf」の表示さえあれば、自由に加工したりしてお使い頂けます。
 
 
 ## 配布ファイルについて
