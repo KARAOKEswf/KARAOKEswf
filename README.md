@@ -1,13 +1,15 @@
 #KARAOKEswf
 ====
 
+# 画像
+![画像](https://res.cloudinary.com/weep/karaokeswf/00.png "画像")
 
 # 動画
 
-- 準備中
+- [カラオケ字幕.swf の はじまり](https://www.nicovideo.jp/watch/nm23646009)
 
 # 概要
-- 「Flash職人」なんていうものになった 2003年から、 Macromedia Flash (現：Adobe Animate)で、「カラオケ字幕」を表現できないかを模索し続けて、2014年にようやく「[このMAD動画](https://www.nicovideo.jp/watch/sm23925725)」で具現化することができた経緯のものです。
+- 「Flash職人」なんていうものになった 2003年から、 Macromedia Flash (現：Adobe Animate)で、「カラオケ字幕」を表現できないかを模索し続けて、2014年にようやく「[このMAD動画](https://www.nicovideo.jp/watch/sm23925725)」で具現化することができた経緯です。
 - 当リポジトリで配布されるファイルのライセンスは、**Creative Commmons BY-4.0 License** となっており、とりあえず「#KARAOKEswf」の表示さえあれば、自由に加工したりしてお使い頂けます。
 
 
