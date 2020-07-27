@@ -2,11 +2,11 @@
 ====
 
 # 画像
-![画像](https://res.cloudinary.com/weep/karaokeswf/00.png "画像")
+
 
 # 動画
 
-- [カラオケ字幕.swf の はじまり](https://www.nicovideo.jp/watch/nm23646009)
+- [カラオケ字幕.swf の はじまり](https://www.nicovideo.jp/watch/nm23646009)<br>[![画像](https://res.cloudinary.com/weep//c_scale,w_320/karaokeswf/00.png "画像")](https://www.nicovideo.jp/watch/nm23646009)
 
 # 概要
 - 「Flash職人」なんていうものになった 2003年から、 Macromedia Flash (現：Adobe Animate)で、「カラオケ字幕」を表現できないかを模索し続けて、2014年にようやく「[このMAD動画](https://www.nicovideo.jp/watch/sm23925725)」で具現化することができた経緯です。
